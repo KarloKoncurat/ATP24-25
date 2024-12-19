@@ -45,4 +45,9 @@ marp: true
 - Neka od ograničenja na koje možemo naići unutar PowerPointa su primjerice da ne možemo koristiti bilo koji format slike za umetanje u samu prezentaciju.
 ---
 
+# Zaključak:
 
+- Sve u svemu PowerPoint je vrlo koristan alat za svrhe izrade prezentacija koje se kanije mogu korisiti za što je potrebno.
+
+- Također je jedan od najjednostavnijih za korištenje zbog lako razumljivog korisničkog sučelja kojim korisnik može navigirati bez ikakvih problema.
+--- 
